@@ -1,0 +1,8 @@
+build/
+out/
+.vs/
+*.user
+Thumbs.db
+
+*.exe
+*.dll
